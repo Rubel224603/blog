@@ -1,0 +1,14 @@
+.me{
+    font-size: 50px;
+    color:red;
+}
+.content{
+    border:1px solid #ccc;
+    box-shadow: 1px 1px 7px #aaa;
+    padding:10px;
+}.single-post {
+    margin-bottom: 30px;
+   
+}.single-post img{
+    width:100%;
+}
